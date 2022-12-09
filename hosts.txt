@@ -1,6 +1,2 @@
-[ALL_LINUX:children]
-PROD
-STAGING
-
 [test]
 51.250.77.137
